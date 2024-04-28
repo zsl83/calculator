@@ -29,11 +29,10 @@ Here is a more detailed explanation of the calculator code you provided:
       These detailed explanations shed light on the core components and functions of the calculator code.
 
 
+     
 
-   
 
-
-      Here it is picture of that.
+     
 
 
 
