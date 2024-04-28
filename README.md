@@ -23,11 +23,11 @@ Here is a more detailed explanation of the calculator code you provided:
 5. **Button Events:**
    - Using the ActionListener interface, the behavior of buttons is defined, and upon clicking each button, the respective action is executed.
      
-  
+
+ These detailed explanations shed light on the core components and functions of the calculator code.
 
 
-      These detailed explanations shed light on the core components and functions of the calculator code.
-
+Its photo is available in the project
 
      
 
